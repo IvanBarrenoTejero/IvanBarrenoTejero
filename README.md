@@ -103,13 +103,6 @@ const ivanBarreno = {
     </td>
   </tr>
 </table>
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanBarrenoTejero&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanBarrenoTejero&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ## 📫 Connect with me
 
 <p align="left">
