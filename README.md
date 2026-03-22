@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IvanBarrenoTejero/IvanBarrenoTejero/main/memoji.png" width="200" alt="Iván Barreno Memoji"/>
-  <img src="https://raw.githubusercontent.com/IvanBarrenoTejero/IvanBarrenoTejero/main/laptop wave.png" width="150" alt="Laptop Wave Sticker"/>
+  <img src="https://raw.githubusercontent.com/IvanBarrenoTejero/IvanBarrenoTejero/main/memoji.png" width="280" alt="Iván Barreno Memoji"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Iván Barreno</h1>
@@ -8,6 +7,8 @@
 
 <p align="center">
   Cross-platform application developer passionate about learning and creating projects
+  <br><br>
+  <img src="https://raw.githubusercontent.com/IvanBarrenoTejero/IvanBarrenoTejero/main/laptop wave.png" width="80" alt="Laptop Wave Sticker"/>
 </p>
 
 <p align="center">
