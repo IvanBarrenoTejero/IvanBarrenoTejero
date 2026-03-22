@@ -25,7 +25,7 @@ const ivanBarreno = {
   architecture: ["Microservices", "REST APIs"],
   challenge: "Building scalable and efficient solutions 🚀"
 };
-` ` `
+```
 
 ## 🛠️ Tech Stack
 
@@ -91,6 +91,3 @@ const ivanBarreno = {
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-```
-
-El problema de Gemini era que ponía URLs de búsqueda de Google (`www.google.com/search?q=...`) dentro de los `src` de las imágenes, lo que obviamente no funciona. Aquí están todas las URLs directas y correctas.
