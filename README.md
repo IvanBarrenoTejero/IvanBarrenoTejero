@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanbarrenotejero&label=Profile%20views&color=0e75b6&style=flat" alt="ivanbarrenotejero" /> </p>
 
+- 🔭 I’m currently working on **improving my full stack skills and building personal projects**
+
+- 👯 I’m looking to **collaborate on open source projects**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
