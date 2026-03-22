@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack Developer (DAM)</h3>
 
 <p align="center">
-  💻 Junior developer passionate about building full stack applications
+  Cross-platform application developer passionate about learning and creating projects
 </p>
 
 <p align="center">
