@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IvanBarrenoTejero/IvanBarrenoTejero/main/memoji.png" width="200" alt=""/>
   <img src="https://raw.githubusercontent.com/IvanBarrenoTejero/IvanBarrenoTejero/main/laptop wave.png" width="150" alt="Laptop Wave Sticker"/>
 </p>
 
