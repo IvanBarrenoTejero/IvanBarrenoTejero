@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/IvanBarrenoTejero/IvanBarrenoTejero/main/memoji.png" width="200" alt="Iván Barreno Memoji"/>
+  <img src="https://raw.githubusercontent.com/IvanBarrenoTejero/IvanBarrenoTejero/main/laptop wave.png" width="150" alt="Laptop Wave Sticker"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Iván Barreno</h1>
@@ -67,12 +68,6 @@ const ivanBarreno = {
     </td>
   </tr>
 </table>
-
-## 🚀 Currently Working On
-
-- 💻 Improving my Full Stack skills and best practices
-- 📚 Deep diving into Spring Boot microservices and modern JS frameworks
-- 📱 Developing cross-platform apps with Flutter
 
 ## 📊 GitHub Stats
 
