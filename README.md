@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/IvanBarrenoTejero/IvanBarrenoTejero/main/laptop wave.png" width="150" alt="Laptop Wave Sticker"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Iván Barreno</h1>
-<h3 align="center">Full Stack Developer (DAM)</h3>
+<h1 align="center">Hi, I'm Iván Barreno</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   Cross-platform application developer passionate about learning and creating projects
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 ```javascript
 const ivanBarreno = {
   pronouns: "He/Him",
@@ -27,7 +27,7 @@ const ivanBarreno = {
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center">
   <tr>
